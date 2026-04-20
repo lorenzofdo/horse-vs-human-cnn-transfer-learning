@@ -93,20 +93,6 @@ Using Grad-CAM:
 
 ---
 
-## Repository Structure
-
-
-notebook/
-├── horse_vs_human.ipynb
-└── horse_vs_human.html
-
-images/
-├── gradcam.png
-└── metrics.png
-
-
----
-
 ## Full Notebook
 
 The complete notebook (with code, outputs, and visualizations) is available here:
